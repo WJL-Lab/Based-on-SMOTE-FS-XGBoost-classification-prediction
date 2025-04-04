@@ -1,4 +1,4 @@
-# Multi-classification prediction based on SMOTE and feature selection for XGBoost model
+# Multi-classification prediction of XGBoost model based on SMOTE and feature selection
 
 Result:
 ```c
